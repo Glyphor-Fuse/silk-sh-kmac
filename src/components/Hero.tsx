@@ -20,20 +20,7 @@ export const Hero = () => {
         <div className="absolute inset-0 bg-black/40 z-10" />
         <div className="absolute inset-0 bg-gradient-to-b from-transparent via-transparent to-stone-950 z-20" />
         <img 
-          src="<div className="relative">
-  <img 
-    src="https://images.pexels.com/photos/9698117/pexels-photo-9698117.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200" 
-    alt="Chef with a face mask skillfully handles a sushi knife indoors."
-    width="2560"
-    height="2048"
-    className="w-full h-full object-cover"
-  />
-  <div className="absolute bottom-0 left-0 right-0 bg-gradient-to-t from-black/70 via-black/40 to-transparent p-2">
-    <a href="https://www.pexels.com/photo/a-person-holding-a-sharp-knife-9698117/" target="_blank" rel="noopener noreferrer" className="text-xs text-slate-400 hover:text-slate-300 transition-colors">
-      Photo by Airam Dato-on on Pexels
-    </a>
-  </div>
-</div>" 
+          src="https://images.pexels.com/photos/9698117/pexels-photo-9698117.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200" 
           alt="Chef preparing nigiri"
           className="w-full h-full object-cover opacity-80 scale-105"
         />

@@ -1,16 +1,12 @@
-import { useState, useEffect } from 'react';
+import { useState } from 'react';
 import { X } from 'lucide-react';
 import { motion, AnimatePresence } from 'framer-motion';
 
 export const GlyphorBadge = () => {
-  const [isVisible, setIsVisible] = useState(false);
-
-  useEffect(() => {
+  const [isVisible, setIsVisible] = useState(() => {
     const hidden = localStorage.getItem('glyphor_badge_hidden');
-    if (!hidden) {
-      setIsVisible(true);
-    }
-  }, []);
+    return !hidden;
+  });
 
   const handleClose = () => {
     setIsVisible(false);

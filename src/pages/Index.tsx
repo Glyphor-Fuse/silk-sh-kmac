@@ -28,20 +28,7 @@ export default function Index() {
           <FadeIn>
             <div className="relative aspect-[3/4] overflow-hidden rounded-sm">
               <img 
-                src="<div className="relative">
-  <img 
-    src="https://images.pexels.com/photos/5946639/pexels-photo-5946639.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=1200&w=800" 
-    alt="Overhead view of a traditional matcha tea ceremony with ceramic cups and bamboo whisk."
-    width="3276"
-    height="4584"
-    className="w-full h-full object-cover"
-  />
-  <div className="absolute bottom-0 left-0 right-0 bg-gradient-to-t from-black/70 via-black/40 to-transparent p-2">
-    <a href="https://www.pexels.com/photo/photo-of-person-pouring-hot-water-on-a-cup-5946639/" target="_blank" rel="noopener noreferrer" className="text-xs text-slate-400 hover:text-slate-300 transition-colors">
-      Photo by Charlotte May on Pexels
-    </a>
-  </div>
-</div>" 
+                src="https://images.pexels.com/photos/5946639/pexels-photo-5946639.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=1200&w=800" 
                 alt="Traditional Tea Ceremony"
                 className="w-full h-full object-cover hover:scale-105 transition-transform duration-700"
               />
@@ -84,20 +71,7 @@ export default function Index() {
               <FadeIn>
                 <div className="relative aspect-square md:aspect-[4/3] overflow-hidden">
                   <img 
-                    src="<div className="relative">
-  <img 
-    src="https://images.pexels.com/photos/8951087/pexels-photo-8951087.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200" 
-    alt="Chef expertly preparing sushi with rice, cucumber, and salmon, showcasing Japanese culinary skills."
-    width="7952"
-    height="5304"
-    className="w-full h-full object-cover"
-  />
-  <div className="absolute bottom-0 left-0 right-0 bg-gradient-to-t from-black/70 via-black/40 to-transparent p-2">
-    <a href="https://www.pexels.com/photo/cook-preparing-a-mango-sushi-roll-8951087/" target="_blank" rel="noopener noreferrer" className="text-xs text-slate-400 hover:text-slate-300 transition-colors">
-      Photo by Ivan S on Pexels
-    </a>
-  </div>
-</div>" 
+                    src="https://images.pexels.com/photos/8951087/pexels-photo-8951087.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200" 
                     alt="Head Chef Kiyama"
                     className="w-full h-full object-cover grayscale contrast-125"
                   />
@@ -140,20 +114,7 @@ export default function Index() {
               className="md:col-span-2 row-span-2 relative overflow-hidden group"
             >
               <img 
-                src="<div className="relative">
-  <img 
-    src="https://images.pexels.com/photos/17593510/pexels-photo-17593510.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200" 
-    alt="Warm and contemporary izakaya interior showcasing wooden stools and a minimalist bar setting."
-    width="4000"
-    height="2666"
-    className="w-full h-full object-cover"
-  />
-  <div className="absolute bottom-0 left-0 right-0 bg-gradient-to-t from-black/70 via-black/40 to-transparent p-2">
-    <a href="https://www.pexels.com/photo/a-japanese-restaurant-with-wooden-stools-and-a-sign-17593510/" target="_blank" rel="noopener noreferrer" className="text-xs text-slate-400 hover:text-slate-300 transition-colors">
-      Photo by Markus Winkler on Pexels
-    </a>
-  </div>
-</div>" 
+                src="https://images.pexels.com/photos/17593510/pexels-photo-17593510.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200" 
                 alt="Interior Counter" 
                 className="w-full h-full object-cover transition-transform duration-1000 group-hover:scale-105"
               />
@@ -168,20 +129,7 @@ export default function Index() {
                className="relative overflow-hidden group"
             >
               <img 
-                src="<div className="relative">
-  <img 
-    src="https://images.pexels.com/photos/16716142/pexels-photo-16716142.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" 
-    alt="A barista pours freshly brewed coffee from a siphon into a glass cup on a table."
-    width="3595"
-    height="3595"
-    className="w-full h-full object-cover"
-  />
-  <div className="absolute bottom-0 left-0 right-0 bg-gradient-to-t from-black/70 via-black/40 to-transparent p-2">
-    <a href="https://www.pexels.com/photo/pouring-coffee-into-glass-on-table-16716142/" target="_blank" rel="noopener noreferrer" className="text-xs text-slate-400 hover:text-slate-300 transition-colors">
-      Photo by aidin gheshlaghi on Pexels
-    </a>
-  </div>
-</div>" 
+                src="https://images.pexels.com/photos/16716142/pexels-photo-16716142.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" 
                 alt="Sake Service" 
                 className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-110"
               />
@@ -194,20 +142,7 @@ export default function Index() {
                className="relative overflow-hidden group"
             >
               <img 
-                src="<div className="relative">
-  <img 
-    src="https://images.pexels.com/photos/34410544/pexels-photo-34410544.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=1200&w=800" 
-    alt="A tranquil bonsai forest with lush green moss in a decorative pot, captured indoors."
-    width="4160"
-    height="6240"
-    className="w-full h-full object-cover"
-  />
-  <div className="absolute bottom-0 left-0 right-0 bg-gradient-to-t from-black/70 via-black/40 to-transparent p-2">
-    <a href="https://www.pexels.com/photo/serene-bonsai-forest-with-moss-in-pot-34410544/" target="_blank" rel="noopener noreferrer" className="text-xs text-slate-400 hover:text-slate-300 transition-colors">
-      Photo by Kendall Hoopes on Pexels
-    </a>
-  </div>
-</div>" 
+                src="https://images.pexels.com/photos/34410544/pexels-photo-34410544.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=1200&w=800" 
                 alt="Garden View" 
                 className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-110"
               />
@@ -221,20 +156,7 @@ export default function Index() {
                className="md:col-span-3 relative overflow-hidden group h-[300px]"
             >
               <img 
-                src="<div className="relative">
-  <img 
-    src="https://images.pexels.com/photos/19893408/pexels-photo-19893408.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200" 
-    alt="Detailed close-up of textured brick pavement with shadow play highlighting urban patterns."
-    width="5349"
-    height="3566"
-    className="w-full h-full object-cover"
-  />
-  <div className="absolute bottom-0 left-0 right-0 bg-gradient-to-t from-black/70 via-black/40 to-transparent p-2">
-    <a href="https://www.pexels.com/photo/close-up-of-pavement-19893408/" target="_blank" rel="noopener noreferrer" className="text-xs text-slate-400 hover:text-slate-300 transition-colors">
-      Photo by 佳瑋 劉 on Pexels
-    </a>
-  </div>
-</div>" 
+                src="https://images.pexels.com/photos/19893408/pexels-photo-19893408.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200" 
                 alt="Details" 
                 className="w-full h-full object-cover transition-transform duration-1000 group-hover:scale-105 opacity-80"
               />
